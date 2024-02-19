@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Barbell Bench Press",
+    "score": 9.5
+  },
+  {
+    "id": 2,
+    "name": "Dumbbell Bench Press",
+    "score": 9.3
+  },
+  {
+    "id": 3,
+    "name": "Incline Bench Press",
+    "score": 9.2
+  },
+  {
+    "id": 4,
+    "name": "Dips",
+    "score": 8.8
+  },
+  {
+    "id": 5,
+    "name": "Decline Bench Press",
+    "score": 8.8
+  },
+  {
+    "id": 6,
+    "name": "Incline Dumbbell Press",
+    "score": 8.9
+  },
+  {
+    "id": 7,
+    "name": "Push-Ups",
+    "score": 9
+  },
+  {
+    "id": 8,
+    "name": "Chest Press Machine",
+    "score": 8.6
+  },
+  {
+    "id": 9,
+    "name": "Cable Crossover",
+    "score": 8.7
+  },
+  {
+    "id": 10,
+    "name": "Decline Dumbbell Press",
+    "score": 8.7
+  },
+  {
+    "id": 11,
+    "name": "Dumbbell Flyes",
+    "score": 8.5
+  },
+  {
+    "id": 12,
+    "name": "Chest Fly Machine",
+    "score": 8.4
+  },
+  {
+    "id": 13,
+    "name": "Medicine Ball Push-Ups",
+    "score": 8.3
+  },
+  {
+    "id": 14,
+    "name": "Plyometric Push-Ups",
+    "score": 8.1
+  },
+  {
+    "id": 15,
+    "name": "Dumbbell Pullover",
+    "score": 8
+  }
+]
